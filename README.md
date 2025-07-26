@@ -22,4 +22,4 @@ Enter the correct password in the "Type a password" field.
 Click the "Decrypt Text" button to reveal the original message.
 
 # Getting Started
-Simply visit https://ujjvalrajput.github.io/Text-And-Emoji/ and start encrypting and decrypting messages with emojis.
+Simply visit Rainbow Agency App and start encrypting and decrypting messages with emojis.
